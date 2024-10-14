@@ -1,1 +1,1 @@
-# webt2310
+# WEBT 2310 Intermediate Web Design Project Page

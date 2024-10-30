@@ -1,0 +1,55 @@
+body {
+    background-color: #2E608C;
+    color: #F2F2F2;
+}
+
+/*Classes*/
+
+.row {
+    text-align: center;
+}
+
+/*IDs*/
+
+#header_img {
+    background-image: url(../images/MI_8.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#ahbc {
+    background-image: url(../images/MI.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#set {
+    background-image: url(../images/MI_4.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#stch {
+    background-image: url(../images/MI_6.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 {
+    color: #F2F2F2;
+    text-align: center;
+}
+
+h2 {
+    font-size: large;
+}
+
+@media (min-width: 1024px) {
+    #panel_bg {
+        width: 50%;
+    }
+}

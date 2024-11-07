@@ -154,6 +154,9 @@ footer {
         display: flex;
     }
 
+    .col {
+        display: flex;
+    }
     .gallery {
         display: flex;
     }

@@ -45,6 +45,7 @@ nav li a:hover {
     background-color: #F2CEA2;
     color: #515932;
     text-align: center;
+    margin: 10px;
     }
 
 #header_img {
@@ -60,25 +61,11 @@ nav li a:hover {
     text-align: center;
     }
 
-#header_img_2 {
-    display: block;
-    margin: 0 auto;
-    padding-top: 35px;
-    width: 75%;
-}
-
 #container_3 {
     background-color: #F2CEA2;
     color: #515932;
     text-align: center;
     }
-
-#header_img_3 {
-    display: block;
-    margin: 0 auto;
-    padding-top: 35px;
-    width: 75%;
-}
 
 #container_4 {
     background-color: #F2CEA2;
@@ -87,6 +74,18 @@ nav li a:hover {
     }
 
 #lower_area {
+    padding: 10px;
+}
+
+#lower_area_2 {
+    padding: 10px;
+}
+
+#lower_area_3 {
+    padding: 10px;
+}
+
+#lower_area_4 {
     padding: 10px;
 }
 
@@ -147,9 +146,10 @@ footer {
         display: inline-block;
     }
 
-    .col {
+    .col img {
         width: 50%;
     }
+    
     main {
         display: flex;
     }
@@ -157,7 +157,11 @@ footer {
 
 @media (min-width: 1024px) {
 
-    #galy {
+    #container {
+        width: 80%;
+    }
+
+    #gal {
         display: flex;
     }
 
@@ -167,5 +171,25 @@ footer {
 
     #lower_area {
         display: flex;
+    }
+
+    #lower_area_2 {
+        display: flex;
+    }
+
+    #lower_area_3 {
+        display: flex;
+    }
+
+    #lower_area_4 {
+        display: flex;
+    }
+
+    .col {
+        margin: 10px;
+    }
+
+    .col img {
+        width: 75%;
     }
 }

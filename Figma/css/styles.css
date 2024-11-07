@@ -41,6 +41,11 @@ nav li a:hover {
     color: #D93636;
 }
 
+main {
+    text-align: center;
+    margin: 0 auto;
+}
+
 #container {
     background-color: #F2CEA2;
     color: #515932;
@@ -145,10 +150,6 @@ footer {
     nav li {
         display: inline-block;
     }
-
-    .col img {
-        width: 50%;
-    }
     
     main {
         display: flex;
@@ -156,10 +157,6 @@ footer {
 }
 
 @media (min-width: 1024px) {
-
-    #container {
-        width: 80%;
-    }
 
     #gal {
         display: flex;
@@ -187,9 +184,5 @@ footer {
 
     .col {
         margin: 10px;
-    }
-
-    .col img {
-        width: 75%;
     }
 }

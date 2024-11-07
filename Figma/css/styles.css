@@ -86,16 +86,14 @@ nav li a:hover {
     text-align: center;
     }
 
-#header_img_4 {
-    display: block;
-    margin: 0 auto;
-    padding-top: 35px;
-    width: 75%;
+#lower_area {
+    padding: 10px;
 }
 
 img {
     display: block;
     margin: 0 auto;
+    width: 100%;
 }
 
 footer {
@@ -148,21 +146,26 @@ footer {
     nav li {
         display: inline-block;
     }
-}
 
-@media (min-width: 1024px) {
+    .col {
+        width: 50%;
+    }
     main {
         display: flex;
     }
+}
 
-    section {
+@media (min-width: 1024px) {
+
+    #galy {
         display: flex;
     }
-    #gallery {
+
+    #gal_2 {
         display: flex;
     }
 
-    #gallery_2 {
+    #lower_area {
         display: flex;
     }
 }

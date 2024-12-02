@@ -20,9 +20,6 @@ H1 {
 }
 
 footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
     background-color: #F2AC29;
     color: black;
@@ -36,3 +33,11 @@ footer {
     max-height: 400px;
     max-width: 100%;
 }
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }

@@ -6,6 +6,10 @@
 
 body {
     color: black;
+    background-image: url(../images/Background.png);
+    background-size: 1290px 2000px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #container_1 {

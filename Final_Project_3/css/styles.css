@@ -6,7 +6,7 @@
 
 body {
     color: black;
-    background-image: url(../images/Background.png);
+    background-image: linear-gradient(to right, #F2E422, #F23A29);
     background-repeat: no-repeat;
     background-position: center;
 }

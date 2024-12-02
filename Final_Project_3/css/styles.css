@@ -35,9 +35,6 @@ footer {
 }
 
 .row {
-    display: flex;
+    text-align: center;
   }
-  
-  .column {
-    flex: 50%;
-  }
+

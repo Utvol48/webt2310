@@ -50,6 +50,8 @@ img {
     padding: 10px;
     margin: 10px 0;
     border: 2px solid #F2AC29;
+    width: 50%;
+    height: 90%;
 }
 
 @media (min-width: 1024px) {

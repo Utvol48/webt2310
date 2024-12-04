@@ -15,6 +15,7 @@ body {
 #container_2 {
     background-color: white;
     text-align: center;
+    margin: 10px;
 }
 
 H1 {
@@ -40,6 +41,14 @@ footer {
     text-align: center;
   }
 
-  .col_1 {
-    display: flex;
-  }
+.col {
+    padding: 10px;
+}
+
+@media (min-width: 1024px) {
+
+    #container_2 {
+        display: flex;
+    }
+}
+

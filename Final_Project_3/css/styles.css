@@ -12,6 +12,11 @@ body {
     text-align: center;
 }
 
+#container_2 {
+    background-color: white;
+    text-align: center;
+}
+
 H1 {
     color: white;
 }
@@ -35,3 +40,6 @@ footer {
     text-align: center;
   }
 
+  .col_1 {
+    display: flex;
+  }

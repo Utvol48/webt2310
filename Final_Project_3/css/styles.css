@@ -71,6 +71,8 @@ img {
     background-image: url(../images/Dave_1.jpg);
     background-size: cover;
     background-position: center;
+    height: auto;
+    width: auto;
 
 }
 
@@ -78,6 +80,8 @@ img {
     background-image: url(../images/Post_Malone.jpg);
     background-size: cover;
     background-position: center;
+    height: auto;
+    width: auto;
 
 }
 
@@ -85,6 +89,8 @@ img {
     background-image: url(../images/Foo.jpg);
     background-size: cover;
     background-position: center;
+    height: auto;
+    width: auto;
 
 }
 

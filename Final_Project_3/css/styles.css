@@ -54,7 +54,51 @@ img {
     height: 90%;
 }
 
+.text {
+    font-size: 130%;
+    text-align: center;
+ }
+ 
+ .center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+ }
+
+#ahbc {
+    background-image: url(../images/Dave_1.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#set {
+    background-image: url(../images/Post_Malone.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+#stch {
+    background-image: url(../images/Foo.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
 @media (min-width: 1024px) {
+
+    #panel_bg {
+        width: 50%;
+    }
+
+    #panel_bg1 {
+        width: 50%;
+    }
+    #panel_bg2 {
+        width: 50%;
+    }
 
     #container_2 {
         display: flex; 

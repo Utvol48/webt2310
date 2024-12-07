@@ -5,5 +5,6 @@
 - <a href="Bootstrap/home.html">Bootstrap</a>
 - <a href="Figma/index.html">Figma</a>
 - <a href="John_Final_Project/index.html">Final_Project</a>
+- <a href="John_Final_Project_1/index.html">Final_Project_All</a>
 
 
